@@ -1,0 +1,20 @@
+{
+  "version": "2.0 estable",
+  "checks": [
+    "Sintaxis JavaScript app",
+    "Sintaxis JavaScript supervisor",
+    "IDs HTML referenciados",
+    "Navegación 4 solapas",
+    "Configurar y guardar credenciales",
+    "Búsqueda de clientes",
+    "Lógica condicional encuesta",
+    "Confirmar encuesta",
+    "Capturar GPS",
+    "Guardar en Supabase",
+    "Guardar en modo demo",
+    "Historial",
+    "Filtros supervisor",
+    "Mapa supervisor",
+    "Realtime supervisor"
+  ]
+}
